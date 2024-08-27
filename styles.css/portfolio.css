@@ -1,0 +1,47 @@
+ /* footer */
+ .d{background-color: #ebe9eb;}
+
+ /* skills section styles */
+.skills-container{display: flex;gap: 24px;}  
+ .skills{padding:30px ;box-shadow: 1px 2px 3px 1px; color: #460759;border-radius:10px 6px;background-color: darkolivegreen;}
+.skills6{background-color: rgb(174, 140, 6);box-shadow: 2px 3px 4px 2px;color: #680356;border-radius: 10px;box-shadow: 2px 1px 6px 1px;padding: 30px;}
+ /* div */
+.s1kills{background-color: rgb(226, 140, 208);border-radius: 20px;box-shadow: 2px 3px 4px 2px;color: rgb(51, 2, 24);}
+
+ .container{text-align: center;height: 100px;font-weight: 400px;}
+
+/* shares style */
+ .secondary-bg{background-color: rgb(245, 246, 248);height: 1356px;font-weight: 1140px;}
+.h{background-color: rgb(248, 248, 247);height: 10px;font-weight: 929px;}
+.text-center{text-align: center;}
+.v{background-color: rgb(223, 225, 227);}
+.skills-container{display: flex;}
+/* nav styles */
+nav{display: flex;
+    align-items: center;
+    justify-content: space-between;}
+.nav-title{font-size:38px ;font: weight 1046px;}
+
+
+nav ul li{display: flex; }
+.nav ul{justify-content: space-between;}
+.dark-2{color: black;}
+/* header */
+.btn-primary{ background-color: black;color: aliceblue;
+    padding: 10px 20px;align-items: center;}
+
+nav{align-items: center;}
+/* p */
+.f{display: flex;align-items: center;justify-content: right; }
+.m{display: flex;}
+/* DIV */
+.contant:hover{opacity: 1;}
+.contant h3{font-size: 60px;color: #ebe9eb;margin-bottom: 15px;}
+/* menu */
+ .dd{  background-image: url(../assets/handshake.jpg);height: 640px;
+     font-weight: 600px;border-radius: 40px;}
+.m{text-align: right;display: flex;}
+.n{text-align: left;color: darkgray;}
+.b{display: flex;height: 25px;align-items: end;color: beige;background-color: rgb(105, 111, 111);
+   /* form */
+  
